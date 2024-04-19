@@ -2,7 +2,8 @@
 ### Check my personal website @[alitarika.dev](https://www.alitarika.dev/)
 
 <details>
-<summary><h3>Why Am I Even Here? (Personal Story of Delving into Tech.) </h3></summary> 
+<summary>Why Am I Even Here? (Personal Story of Delving into Tech.)</summary> 
+<br>
   
 While I started applying for jobs, LinkedIn was persistently offering me data analyst jobs as if I knew anything about that field. So, I delved into what it actually was until I came across the python programming language part. And, that was how I ended up typing “Hello World” into my terminal. That moment was my epiphany, I was hooked from the get-go, I discovered my passion for making magic out of 0’s and 1’s.
 
