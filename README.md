@@ -7,7 +7,7 @@
   
 While I started applying for jobs, LinkedIn was persistently offering me data analyst jobs as if I knew anything about that field. So, I delved into what it actually was until I came across the python programming language part. And, that was how I ended up typing “Hello World” into my terminal. That moment was my epiphany, I was hooked from the get-go, I discovered my passion for making magic out of 0’s and 1’s.
 
-Over the course of a year, I devoted myself to learning the tools and language of software development, earning Udemy, freeCodeCamp, coursera certificates, completing courses like CS50x, and crafting projects that stretched my skills. Today, I proudly stand as a full-stack web developer based in Amsterdam, driven by a passion for problem-solving, web development, programming and also coding itself.
+Over the course of a year, I devoted myself to learning the tools and language of software development, earning Udemy, freeCodeCamp, coursera certificates, completing courses like CS50x, and crafting projects that stretched my skills. Today, I proudly stand as a full-stack web developer based in Istanbul, driven by a passion for problem-solving, web development, programming and also coding itself.
 
 As a person who is a firm believer of lifelong learning, I am open to embark on a journey of learning in the field and get my hands dirty. I am also open to try out new technologies.</details>
 \
