@@ -1,5 +1,4 @@
 # Hello! This is Tarik!
-### Check my personal website @[alitarika.dev](https://www.alitarika.dev/)
 
 <details>
 <summary>Personal Story of Delving into Tech.</summary> 
